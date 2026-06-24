@@ -108,6 +108,5 @@ El motor divide las cadenas por sus delimitadores lógicos y remueve los espacio
 * **Método `.strip()**`: Elimina todos los espacios en blanco, tabulaciones y saltos de línea (`\n`) localizados tanto al inicio como al final de una cadena de caracteres.
 * **Conversión Explícita (`float()`)**: Necesaria para transformar los datos numéricos que se encuentran almacenados con formato de texto (`"31.1"`) a tipos de punto flotante interactivos antes de realizar operaciones aritméticas de agregación.
 
- para agrupar tus trabajos?
 
 ```
